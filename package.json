@@ -1,0 +1,19 @@
+{
+  "name": "broccoli-react-static",
+  "version": "0.0.1",
+  "description": "Static component generator plugin for react and broccoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Naths",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-register": "^6.9.0",
+    "broccoli-plugin": "^1.2.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+  }
+}
